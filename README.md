@@ -13,7 +13,7 @@ Currently a senior in high school, I enjoy learning physics and programming. On 
 ## Preferred software:
 - LaTeX: Overleaf or TeXworks
 - C++: Visual Studio  and CERN ROOT
-- R: RStufio
+- R: RStudio
 - Python: Spyder and Jupyter Lab
 - Video Editing: DaVinci Resolve
 - Image Editing: GIMP and RawTherapee
