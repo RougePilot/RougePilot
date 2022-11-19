@@ -24,4 +24,4 @@ Currently a senior in high school, I enjoy learning physics and programming. On 
 - Office Suite: [Libre Office](https://www.libreoffice.org/)
 - Music Composition: [MuseScore 3](https://musescore.org/en/3.0)
 
-(I also like fountain pens and [modelmaking](https://www.instagram.com/rougepilot/) as hoobies)
+(I also rnjoy fountain pens and [modelmaking](https://www.instagram.com/rougepilot/) as hoobies)
