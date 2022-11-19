@@ -1,7 +1,7 @@
 # Hello there, I am Alessandro Accardi.
 Currently a senior in high school, I enjoy learning physics and programming. On this page, I will be uploading programs and projects that I create that I like or are somewhat useful.
 
-# Current Research Projetcs:
+## Current Research Projetcs:
 - 
 
 ## Languages I work with:
