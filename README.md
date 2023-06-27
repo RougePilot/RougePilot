@@ -1,8 +1,10 @@
-# Hello there, I am Alessandro Accardi.
+# Hello, I am Alessandro Accardi.
 
-Currently a senior in high school, I enjoy learning physics and programming. On this page, I will be uploading programs and projects that I create that I like or are somewhat useful.
+Currently entering University, I enjoy learning physics and programming. On this page, I will be uploading programs and projects that I create that I like or are somewhat useful.
 
 ## Current Research Projetcs:
+
+## Past Research Projects:
 - Determination of higher twist effects in nucleon structure function moments and their $Q^2$ evolution
 
 ## Languages I work with:
@@ -24,5 +26,9 @@ Currently a senior in high school, I enjoy learning physics and programming. On 
 - Vector Graphics: [Inkscape](https://inkscape.org/)
 - Office Suite: [Libre Office](https://www.libreoffice.org/)
 - Music Composition: [MuseScore 3](https://musescore.org/en/3.0)
+
+## Linux distributions I have used:
+- Linux Mint Cinnamon
+- Ubuntu
 
 (I also enjoy fountain pens and [modelmaking](https://www.instagram.com/rougepilot/) as hoobies)
