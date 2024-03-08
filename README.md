@@ -18,7 +18,7 @@ Currently entering University, I enjoy learning physics and programming. On this
 
 ## Preferred software:
 - LaTeX: [Overleaf](https://www.overleaf.com/learn)
-- C++: NeoViM and [CERN ROOT](https://root.cern/)
+- C++: NeoVim and [CERN ROOT](https://root.cern/)
 - R: [RStudio](https://posit.co/download/rstudio-desktop/)
 - Python: [Spyder](spyder-ide.org) and [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
 - Video Editing: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
