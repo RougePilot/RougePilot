@@ -31,4 +31,4 @@ Currently entering University, I enjoy learning physics and programming. On this
 - Linux Mint Cinnamon
 - Ubuntu
 
-(I also enjoy fountain pens and [modelmaking](https://www.instagram.com/rougepilot/) as hoobies)
+(I also enjoy fountain pens and [modelmaking](https://www.instagram.com/rougepilot/) as hobbies)
