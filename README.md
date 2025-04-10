@@ -5,7 +5,7 @@ Currently entering University, I enjoy learning physics and programming. On this
 ## Current Research Projetcs:
 
 ## Past Research Projects:
-- Determination of higher twist effects in nucleon structure function moments and their $Q^2$ evolution
+- Determination of higher twist effects in nucleon structure function moments and their Q^2 evolution
 
 ## Languages I work with:
 - LaTeX
@@ -18,7 +18,7 @@ Currently entering University, I enjoy learning physics and programming. On this
 
 ## Preferred software:
 - LaTeX: [Overleaf](https://www.overleaf.com/learn)
-- C++: NeoVim and [CERN ROOT](https://root.cern/)
+- C++: Vim and [CERN ROOT](https://root.cern/)
 - R: [RStudio](https://posit.co/download/rstudio-desktop/)
 - Python: [Spyder](spyder-ide.org) and [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
 - Video Editing: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
