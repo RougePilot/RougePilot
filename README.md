@@ -17,18 +17,16 @@ Currently entering University, I enjoy learning physics and programming. On this
 - Processing 3
 
 ## Preferred software:
-- LaTeX: [Overleaf](https://www.overleaf.com/learn)
+- LaTeX: [Overleaf](https://www.overleaf.com/learn), TeXLive
 - C++: Vim and [CERN ROOT](https://root.cern/)
 - R: [RStudio](https://posit.co/download/rstudio-desktop/)
-- Python: [Spyder](spyder-ide.org) and [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+- Python: [Jupyter Lab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
 - Video Editing: [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - Image Editing: [GIMP](https://www.gimp.org/) and [RawTherapee](https://www.rawtherapee.com/)
 - Vector Graphics: [Inkscape](https://inkscape.org/)
 - Office Suite: [Libre Office](https://www.libreoffice.org/)
-- Music Composition: [MuseScore 3](https://musescore.org/en/3.0)
 
-## Linux distributions I have used:
-- Linux Mint Cinnamon
-- Ubuntu
+## Linux
+- Arch Linux with Hyperland WM
 
 (I also enjoy fountain pens and [modelmaking](https://www.instagram.com/rougepilot/) as hobbies)
